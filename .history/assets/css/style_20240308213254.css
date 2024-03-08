@@ -51,12 +51,10 @@ a {
     top:-27px;
     z-index:1;
 }
-.hero-wrap {
+.header {
     position: relative;
     height: 100vh;
     background: #E6F0FF;
-    display: flex;
-    flex-direction: column;
 }
 
 .navbar {
