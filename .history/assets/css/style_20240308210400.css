@@ -606,9 +606,7 @@ a {
     background-color: #f9f9f9;
 }
 
-.footer .social-link + .social-link {
-    margin-left: 16px;
-}
+.footer .social-link + .soc
 
 .footer .social-link:hover {
     background-color:#ebebeb;

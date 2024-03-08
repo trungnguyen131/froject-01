@@ -603,11 +603,7 @@ a {
     justify-content: center;
     align-items: center;
     border-radius: 3px;
-    background-color: #f9f9f9;
-}
-
-.footer .social-link + .social-link {
-    margin-left: 16px;
+    background-color: #9;
 }
 
 .footer .social-link:hover {
